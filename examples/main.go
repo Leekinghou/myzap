@@ -15,7 +15,7 @@ func main() {
 	// 开箱即用
 	{
 		defer log.Sync()
-		log.Info("failed to fetch URL", log.String("url", "https://jianghushinian.cn/"))
+		log.Info("failed to fetch URL", log.String("url", "https://www.baidu.com/"))
 		log.Warn("Warn msg", log.Int("attempt", 3))
 		log.Error("Error msg", log.Duration("backoff", time.Second))
 
