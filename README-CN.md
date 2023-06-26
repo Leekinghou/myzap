@@ -8,6 +8,7 @@ MyZap 是一个基于 Zap 封装的更好用的日志库，提供了以下功能
 4. 支持日志按大小和时间进行轮转 🔄
 
 ## 📖 文档
+**待完善。。。**
 
 完整的 MyZap 文档可以在本仓库的 [docs](https://github.com/Leekinghou/myzap/docs) 目录中找到。它提供了关于如何使用和自定义 MyZap 日志库的详细信息。
 
