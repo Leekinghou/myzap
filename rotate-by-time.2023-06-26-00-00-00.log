@@ -1,2 +1,4 @@
 {"level":"warn","ts":"2023-06-26T13:59:11+08:00","msg":"Warn msg"}
 {"level":"error","ts":"2023-06-26T13:59:11+08:00","msg":"Error msg"}
+{"level":"warn","ts":"2023-06-26T21:05:11+08:00","msg":"Warn msg"}
+{"level":"error","ts":"2023-06-26T21:05:11+08:00","msg":"Error msg"}
